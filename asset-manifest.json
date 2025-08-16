@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Final_Globe_Repo/static/css/main.2a8a280a.css",
+    "main.js": "/Final_Globe_Repo/static/js/main.040d251b.js",
+    "index.html": "/Final_Globe_Repo/index.html",
+    "main.2a8a280a.css.map": "/Final_Globe_Repo/static/css/main.2a8a280a.css.map",
+    "main.040d251b.js.map": "/Final_Globe_Repo/static/js/main.040d251b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a8a280a.css",
+    "static/js/main.040d251b.js"
+  ]
+}
